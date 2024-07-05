@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Tikam02/DevOps-Guide/blob/main/Docker">
-        <img src="https://path/to/docker-logo.png" width="100px;">
+        <img src="[https://path/to/docker-logo.png](https://github.com/Tikam02/DevOps-Guide/blob/main/Docker)" width="100px;">
         <br />
         <sub><b>Docker</b></sub>
       </a>
